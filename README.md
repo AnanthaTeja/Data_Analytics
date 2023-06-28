@@ -1,6 +1,6 @@
 # Data_Analytics
-Collect
-Understand and Clean
-Analyse
-Visualise 
+Collect <br>
+Understand and Clean<br>
+Analyse <br>
+Visualise <br>
 Are the steps for data analysis
